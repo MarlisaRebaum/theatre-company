@@ -29,7 +29,7 @@ being displayed in a row with an image, show details, and a button.
 ## Screenshots
 
 #### Flexbox Row and Columns Used for Show Dates:
-![Show Dates](./static/images/shows-columns.JPG)
+![Show Dates](./static/images/shows-column.JPG)
 
 #### Flexbox Row and Columns Used for the Footer:
 ![Footer](./static/images/footer.JPG)
